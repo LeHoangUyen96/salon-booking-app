@@ -1,0 +1,4 @@
+#Fri Mar 26 10:54:44 ICT 2021
+base.0=/Users/uyen/Documents/salon-booking-app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
